@@ -11,4 +11,4 @@ services:
 
 networks:
   boraimpactar2:
-    external: true
+    driver: bridge
